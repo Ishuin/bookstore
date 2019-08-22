@@ -25,7 +25,7 @@ SECRET_KEY = '%me&uw!6snb@d4okwo4ql8*kv8uxn9**$@)v496ri*91c3k)gm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', '.netlify.com']
 
 
 # Application definition
